@@ -1,0 +1,13 @@
+TITLE     [PF6] -- Hexafluorophosphate
+REMARK    THIS IS A SIMULATION BOX
+CRYST1    3.260    3.260    3.260  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  PF  PF6     1      -0.080  -0.290   0.000  1.00  0.00            
+ATOM      2  F1P PF6     1      -0.080   1.340   0.000  1.00  0.00            
+ATOM      3  F2P PF6     1      -0.080  -0.290  -1.630  1.00  0.00            
+ATOM      4  F3P PF6     1       1.550  -0.290   0.000  1.00  0.00            
+ATOM      5  F4P PF6     1      -0.080  -1.920   0.000  1.00  0.00            
+ATOM      6  F5P PF6     1      -0.080  -0.290   1.630  1.00  0.00            
+ATOM      7  F6P PF6     1      -1.710  -0.290   0.000  1.00  0.00            
+TER
+ENDMDL

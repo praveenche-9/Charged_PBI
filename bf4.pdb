@@ -1,0 +1,11 @@
+TITLE     BF4
+REMARK    THIS IS A SIMULATION BOX
+CRYST1    2.415    1.968    2.446  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  BF  BF4     1       1.290  -0.390  -0.010  1.00  0.00            
+ATOM      2  F1B BF4     1       0.230  -1.450  -0.050  1.00  0.00            
+ATOM      3  F2B BF4     1       2.640  -1.040  -0.050  1.00  0.00            
+ATOM      4  F3B BF4     1       1.140   0.520  -1.190  1.00  0.00            
+ATOM      5  F4B BF4     1       1.150   0.400   1.250  1.00  0.00            
+TER
+ENDMDL

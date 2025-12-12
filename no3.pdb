@@ -1,0 +1,10 @@
+TITLE     NO3
+REMARK    THIS IS A SIMULATION BOX
+CRYST1    2.151    1.874    0.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  NU1 NO3     1      -2.550   1.500   0.000  1.00  0.00            
+ATOM      2 ONU1 NO3     1      -2.570   2.750  -0.000  1.00  0.00            
+ATOM      3 ONU2 NO3     1      -1.470   0.890   0.000  1.00  0.00            
+ATOM      4 ONU3 NO3     1      -3.620   0.870  -0.000  1.00  0.00            
+TER
+ENDMDL
